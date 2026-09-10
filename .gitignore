@@ -1,0 +1,20 @@
+# Excel temporary lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Operating System files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Obsidian workspace cache (keeps personal window layouts per computer)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# IDE / Node cache
+node_modules/
+.vscode/
+
+# Large course folders (Synced natively via OneDrive to avoid GitHub 100MB file limit)
+Prepara* BB/

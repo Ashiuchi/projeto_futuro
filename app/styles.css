@@ -1,0 +1,87 @@
+/* Custom Styles for BACEN Study Hub */
+
+:root {
+  --primary: #1e3a8a;
+  --accent: #3b82f6;
+  --bg-dark: #0f172a;
+  --card-dark: #1e293b;
+  --border-dark: #334155;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: #0b0f19;
+  color: #f1f5f9;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* Discursive sheet with realistic numbered lined area */
+.discursive-paper {
+  background: #0f172a;
+  background-image: linear-gradient(#1e293b 1px, transparent 1px);
+  background-size: 100% 28px;
+  line-height: 28px;
+  font-family: 'Consolas', 'Courier New', monospace;
+  font-size: 14px;
+  padding-left: 50px;
+  position: relative;
+}
+
+.line-numbers {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 42px;
+  background-color: #1e293b;
+  border-right: 2px solid #ef4444;
+  color: #64748b;
+  font-size: 12px;
+  line-height: 28px;
+  text-align: right;
+  padding-right: 8px;
+  user-select: none;
+}
+
+/* Glassmorphism Cards */
+.glass-card {
+  background: rgba(30, 41, 59, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+}
+
+.tab-btn.active {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: #ffffff;
+  box-shadow: 0 4px 14px 0 rgba(37, 99, 235, 0.39);
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Badge glow */
+.badge-glow {
+  box-shadow: 0 0 12px rgba(59, 130, 246, 0.5);
+}
