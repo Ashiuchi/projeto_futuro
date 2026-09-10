@@ -6,6 +6,16 @@
 
 ---
 
+## 📂 Estrutura do Ecossistema de Pastas
+
+- 📁 **Concurso - BACEN**: Materiais brutos, PDFs de aulas (ex: `LinguaPortuguesa/`) e editais do Banco Central.
+- 📁 **Concurso - ANPD**: Edital oficial do Processo Seletivo/Concurso e matérias específicas de proteção de dados.
+- 📁 **Concurso - Banco do Brasil**: Materiais, apostilas e provas anteriores do BB TI.
+- 📁 **[[02 - Resumos/Direito Constitucional - Art 5 e Proteção de Dados|02 - Resumos]]**: Nosso Segundo Cérebro no Obsidian — onde conectamos o conteúdo dos PDFs em notas atômicas, esquemas e jurisprudência.
+- 📁 **app**: Aplicativo Web de Produtividade, Pomodoro, Simulador Cebraspe e Discursivas (`Abrir_App_BACEN.bat`).
+
+---
+
 ## ⚡ Acesso Rápido às Ferramentas
 
 * 🚀 **Aplicativo Web Interativo:** Execute o arquivo `Abrir_App_BACEN.bat` ou abra `app/index.html` no seu navegador.

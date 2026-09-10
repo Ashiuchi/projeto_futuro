@@ -15,7 +15,7 @@ A **Emenda Constitucional nº 115, de 10 de fevereiro de 2022**, promoveu uma al
 1. **Direito Fundamental Autônomo:** Não é mais apenas um desdobramento da intimidade ou da privacidade (Art. 5º, X). A proteção de dados agora possui assento constitucional próprio como cláusula pétrea (Art. 60, § 4º, IV).
 2. **Meios Físicos e Digitais:** A proteção abrange tanto dados em bases informatizadas (nuvem, servidores, bancos relacionais/NoSQL) quanto em prontuários e arquivos físicos em papel.
 3. **Competência Privativa da União:**
-   * **Art. 22, XXX da CF/88:** Compete **privativamente à União** legislar sobre proteção e tratamento de dados pessoais. Estados e Municípios **não** podem criar leis locais divergentes sobre a matéria.
+   * **Art. 22, XXX da CF/88:** Compete **privativamente à União** legislar sobre proteção e tratamento de dados pessoais. Estados e Municípios **não** podem criar leis locais divergentes sobre a matéria. 
 
 ---
 
