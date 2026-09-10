@@ -4,7 +4,7 @@ title SINCRONIZADOR PROJETO FUTURO (1-CLIQUE)
 color 0B
 
 echo ====================================================================
-echo         🚀 PROJETO FUTURO | SINCRONIZADOR INTELIGENTE
+echo         PROJETO FUTURO - SINCRONIZADOR INTELIGENTE
 echo ====================================================================
 echo.
 echo [1/3] Verificando conexao e status do repositorio...
@@ -28,7 +28,7 @@ git push origin main
 
 echo.
 echo ====================================================================
-echo    ✅ TUDO SINCRONIZADO COM SUCESSO!
+echo    TUDO SINCRONIZADO COM SUCESSO!
 echo    Suas notas, app e configuracoes estao prontos em qualquer PC.
 echo ====================================================================
 echo.
