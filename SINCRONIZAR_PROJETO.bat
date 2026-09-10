@@ -32,4 +32,4 @@ echo    TUDO SINCRONIZADO COM SUCESSO!
 echo    Suas notas, app e configuracoes estao prontos em qualquer PC.
 echo ====================================================================
 echo.
-timeout /t 5
+timeout /t 5 /nobreak > nul 2>&1
