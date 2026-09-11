@@ -27,3 +27,5 @@ Expressam ideia de quebra de expectativa / oposição, mas não impedem a ação
 Quando for redigir o texto técnico ou parecer no laboratório discursivo do nosso aplicativo:
 - Use conectivos formais para elevar a nota de padrão culto:
   - Em vez de usar repetidamente *"mas"* ou *"porém"*, utilize: **"Não obstante o avanço da LGPD, faz-se mister..."** ou **"Conquanto haja controles criptográficos robustos..."**.
+
+

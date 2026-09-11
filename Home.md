@@ -56,6 +56,7 @@ graph TD
 #### 🛡️ Núcleo Central de Segurança, Dados & Regulação:
 * [[Segurança da Informação e ISO 29151]]
 * [[LGPD e Resoluções da ANPD]]
+* [[ECA Digital - Lei 15211 e Atuação da ANPD]]
 * [[Inteligência Artificial e Proteção de Dados]]
 * [[Gestão de Riscos e Cibersegurança]]
 
