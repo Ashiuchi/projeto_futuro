@@ -34,5 +34,6 @@
 ---
 
 ## 📊 Status do Diário de Bordo
+- **Plano do Dia:** [[PLANO_DE_ESTUDOS_DIARIO|📅 Clique aqui para abrir o Plano de Hoje e Broncas do Mentor]]
 - **Última Verificação de Radar:** 11/09/2026 (MGI autorizou BACEN 170 vagas e ANPD 50 vagas; BB descartado para 2026).
 - **Módulo em Execução Atual:** Língua Portuguesa (Sintaxe e Conectivos Cebraspe/IADES) + Estruturação dos Editais Históricos.

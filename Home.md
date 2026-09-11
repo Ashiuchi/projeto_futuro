@@ -18,6 +18,7 @@
 
 ## ⚡ Acesso Rápido às Ferramentas
 
+* 📅 **Plano de Hoje & Mentoria:** [[PLANO_DE_ESTUDOS_DIARIO|Plano de Estudos Diário & Puxões de Orelha]]
 * 🚀 **Aplicativo Web Interativo:** Execute o arquivo `Abrir_App_BACEN.bat` ou abra `app/index.html` no seu navegador.
 * 📊 **Planilha Oficial de Acompanhamento:** [[Planilha Acompanhamento BACEN 2024.xlsx]]
 * 📝 **Caderno de Exercícios & Baterias:** [[Cadernos BACEN 2024.xlsx]]
