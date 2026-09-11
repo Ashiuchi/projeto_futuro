@@ -16,12 +16,13 @@
 - **Última Atualização:** 10/09/2026.
 - **Ambiente:** Obsidian configurado com cofre em `Projeto_Futuro`, aplicativo web com Pomodoro e Calculadora Cebraspe no ar (`Abrir_App_BACEN.bat`).
 - **Módulos Atuais em Andamento:**
-  1. `Concurso - BACEN/LinguaPortuguesa`: 10 PDFs do Gran Cursos baixados (Sintaxe, Coesão, Formação de Palavras).
-  2. `02 - Resumos`:
+  1. `Concurso - BACEN`: Material completo em PDF do BACEN concluído/baixado.
+  2. `Concurso - ANPD`: Agendado upload dos PDFs da ANPD para amanhã.
+  3. `02 - Resumos`:
      - `Língua Portuguesa - Sintaxe e Conectivos.md` (Em estudo, com PDF integrado).
      - `Direito Constitucional - Art 5 e Proteção de Dados.md` (Art. 5º, LXXIX + EC 115/2022).
      - `LGPD e Resoluções da ANPD.md` (Bases legais, encarregado e governança).
 - **Próximos Passos Imediatos:**
-  - Estudar Sintaxe e Conectivos com ênfase nas pegadinhas Cebraspe x IADES x Cesgranrio.
-  - Baixar os PDFs de Direito Administrativo (LIMPE e Atos) ou Segurança da Informação (ISO 27001).
-  - Executar discursiva no App.
+  - Fazer o upload do material em PDF do concurso ANPD.
+  - Iniciar a resolução de questões e resumos focados em Sintaxe/Conectivos (Cebraspe / IADES / Cesgranrio).
+  - Executar treino de discursiva no App.
