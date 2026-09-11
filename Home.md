@@ -25,12 +25,11 @@
 
 ---
 
-## 🧭 Mapa de Estudos & Navegação do Vault (Obsidian)
+## 🧭 Editais Mestres & Matrizes de Sinergia (Obsidian)
 
-### 1. Editais Verticalizados & Matrizes de Sinergia
-* [[Edital_Verticalizado_BACEN_2024]] — Edital completo Cebraspe (120 itens C/E + 2 Discursivas).
-* [[Edital_Verticalizado_ANPD_2025]] — Edital oficial IADES 2025 (50 questões + 75% da nota em TI e Regulação).
-* [[Edital_Verticalizado_BB_TI]] — Edital Cesgranrio (70 questões + Redação).
+* 🏛️ [[Concurso - BACEN/Edital_Mestre_Verticalizado_BACEN|Edital Mestre Verticalizado BACEN]] — Fusão histórica e probabilística (2002 a 2024), análise de ROI e 100% dos tópicos Cebraspe.
+* 🛡️ [[Concurso - ANPD/Edital_Verticalizado_ANPD_2025|Edital Mestre Verticalizado ANPD]] — Matriz Oficial IADES/Agências Federais (75% da nota em TI e Regulação).
+* 🏦 [[Preparação BB/Edital_Verticalizado_BB_TI|Edital Verticalizado BB TI]] — Base Cesgranrio (Reserva técnica estratégica).
 
 ---
 
