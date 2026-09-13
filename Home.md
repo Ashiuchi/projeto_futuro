@@ -1,8 +1,6 @@
-# 🏛️ PROJETO FUTURO | Hub Central de Estudos
-> **Meta:** Aprovação de Alto Nível em Tecnologia da Informação & Regulação  
-> **Foco Principal:** [[Edital_Verticalizado_BACEN_2024|Auditor do Banco Central (BACEN)]]  
-> **Foco Regulatório & Privacidade:** [[Edital_Verticalizado_ANPD_2025|Especialista da ANPD (Proteção de Dados)]]  
-> **Foco Bancário de TI:** [[Edital_Verticalizado_BB_TI|Agente de Tecnologia (Banco do Brasil)]]
+# 🚀 PROJETO FUTURO | Hub Central de Estudos
+> **Estratégia Pré-Edital:** [[EDITAL_UNIFICADO_PROJETO_FUTURO|🎯 Edital Unificado Mestre — Estudo de Alta Sinergia (BACEN • ANPD • BB)]]  
+> **Filosofia:** Dominar o ecossistema de disciplinas de TI, Regulação e Direito. Quando o primeiro edital sair, viramos a chave!
 
 ---
 
