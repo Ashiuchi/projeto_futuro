@@ -5,12 +5,6 @@
 
 ---
 
-## 📑 Visualização Direta do Material (PDF Integrado)
-> Dica: Você pode ler o material oficial abaixo e ir tomando notas logo a seguir.
-> ![[Concurso - BACEN/LinguaPortuguesa/A-sintaxe-do-periodo-composto-e1740163591.pdf]]
-
----
-
 ## 🎯 Mapa de Conectivos & Armadilhas das 3 Bancas
 
 ### 1. Conjunções Concessivas (Campeãs de Prova!)
@@ -28,4 +22,7 @@ Quando for redigir o texto técnico ou parecer no laboratório discursivo do nos
 - Use conectivos formais para elevar a nota de padrão culto:
   - Em vez de usar repetidamente *"mas"* ou *"porém"*, utilize: **"Não obstante o avanço da LGPD, faz-se mister..."** ou **"Conquanto haja controles criptográficos robustos..."**.
 
+'''
+
+'''
 

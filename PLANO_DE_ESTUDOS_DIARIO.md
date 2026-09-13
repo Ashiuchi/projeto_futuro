@@ -28,8 +28,8 @@ gantt
 #### 🔹 Bloco 1: Língua Portuguesa (1h30) — *Sintaxe do Período Composto & Conectivos*
 - **Material de Apoio:** Nota [[02 - Resumos/Português/Língua Portuguesa - Sintaxe e Conectivos|Língua Portuguesa - Sintaxe e Conectivos]]
 - **Metas do Bloco:**
-  - [ ] Revisar valor semântico das conjunções concessivas (*embora, conquanto, malgrado, a despeito de, não obstante*).
-  - [ ] Fazer 15 a 20 questões de fixação comparando Cebraspe (Certo/Errado) vs IADES vs Cesgranrio.
+  - [x] Revisar valor semântico das conjunções concessivas (*embora, conquanto, malgrado, a despeito de, não obstante*).
+  - [x] Fazer 15 a 20 questões de fixação comparando Cebraspe (Certo/Errado) vs IADES vs Cesgranrio.
 - **Pegadinha da Banca:**
   - 🚨 *Cebraspe:* Troca de *"conquanto"* (concessiva) por *"porquanto"* (causal/explicativa).
   - 🚨 *IADES:* Cobra exigência do modo subjuntivo nas orações concessivas.
@@ -37,9 +37,9 @@ gantt
 #### 🔹 Bloco 2: Proteção de Dados & ANPD (1h30) — *Lei 15.211/2026 (ECA Digital) & Organização ANPD*
 - **Material de Apoio:** Nota [[02 - Resumos/ECA Digital - Lei 15211 e Atuação da ANPD|ECA Digital - Lei 15211 e Atuação da ANPD]]
 - **Metas do Bloco:**
-  - [ ] Concluir o upload dos materiais em PDF referentes ao edital da **ANPD**.
-  - [ ] Mapear as novas atribuições da ANPD no ECA Digital (Lei 15.211/2026) sobre verificação de idade e proteção infantil online.
-  - [ ] Conectar os conceitos com a [[02 - Resumos/LGPD e Resoluções da ANPD|LGPD e Resoluções da ANPD]].
+  - [x] Concluir o upload dos materiais em PDF referentes ao edital da **ANPD**.
+  - [x] Mapear as novas atribuições da ANPD no ECA Digital (Lei 15.211/2026) sobre verificação de idade e proteção infantil online.
+  - [x] Conectar os conceitos com a [[02 - Resumos/LGPD e Resoluções da ANPD|LGPD e Resoluções da ANPD]].
 
 #### 🔹 Bloco 3: Prática e Laboratório (30 min)
 - **Execução:** Abrir o aplicativo web (`Abrir_App_BACEN.bat` ou `app/index.html`).
@@ -62,12 +62,12 @@ gantt
 
 ## 🗓️ HISTÓRICO & CRONOGRAMA DA SEMANA
 
-| Data | Dia | Foco Principal | Carga | Status |
-| :--- | :--- | :--- | :---: | :---: |
-| 10/09 | Qui | Conclusão PDFs BACEN + Configuração Obsidian/App | 3h | ✅ Concluído |
-| **11/09** | **Sex** | **Sintaxe Português + ECA Digital (ANPD) + Upload PDFs** | **3h** | **🟡 EM ANDAMENTO** |
-| 12/09 | Sáb | Revisão Geral + Bateria Cebraspe/IADES + **2h Discursiva** | 5h | ⏳ Agendado |
-| 13/09 | Dom | Simulado Conhecimentos Básicos + Redação + Métricas | 5h | ⏳ Agendado |
+| Data      | Dia     | Foco Principal                                             | Carga  |       Status        |
+| :-------- | :------ | :--------------------------------------------------------- | :----: | :-----------------: |
+| 10/09     | Qui     | Conclusão PDFs BACEN + Configuração Obsidian/App           |   3h   |     ✅ Concluído     |
+| **11/09** | **Sex** | **Sintaxe Português (19/20 - 95%) + ECA Digital (ANPD)** | **2h45**| **✅ Concluído (Dívida: 1 Discursiva)** |
+| 12/09     | Sáb     | Revisão Geral + Bateria Cebraspe/IADES + **Discursiva Pendente + 2h Discursiva** |   5h   |     ⏳ Agendado      |
+| 13/09     | Dom     | Simulado Conhecimentos Básicos + Redação + Métricas        |   5h   |     ⏳ Agendado      |
 
 ---
 *Mantenha este arquivo aberto no painel lateral do Obsidian para ir marcando as caixas de seleção `[x]` conforme avança!*
